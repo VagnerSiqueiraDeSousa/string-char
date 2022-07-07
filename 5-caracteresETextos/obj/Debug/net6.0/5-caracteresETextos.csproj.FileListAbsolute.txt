@@ -1,0 +1,15 @@
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\bin\Debug\net6.0\5-caracteresETextos.exe
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\bin\Debug\net6.0\5-caracteresETextos.deps.json
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\bin\Debug\net6.0\5-caracteresETextos.runtimeconfig.json
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\bin\Debug\net6.0\5-caracteresETextos.dll
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\bin\Debug\net6.0\5-caracteresETextos.pdb
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\obj\Debug\net6.0\5-caracteresETextos.csproj.AssemblyReference.cache
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\obj\Debug\net6.0\5-caracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\obj\Debug\net6.0\5-caracteresETextos.AssemblyInfoInputs.cache
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\obj\Debug\net6.0\5-caracteresETextos.AssemblyInfo.cs
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\obj\Debug\net6.0\5-caracteresETextos.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\obj\Debug\net6.0\5-caracteresETextos.dll
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\obj\Debug\net6.0\refint\5-caracteresETextos.dll
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\obj\Debug\net6.0\5-caracteresETextos.pdb
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\obj\Debug\net6.0\5-caracteresETextos.genruntimeconfig.cache
+D:\AulasCSharp\revisandoCSharp\test01\5-caracteresETextos\obj\Debug\net6.0\ref\5-caracteresETextos.dll
